@@ -1,0 +1,500 @@
+Marque l'icône entière comme sélectionnée.
+Phrase de passe (vérification) & #160;:
+Durée de l'indicateur d'entrée au clavier bloquée@info: whatsthis
+Le Groenland [Danemark]ncamerica. kgm
+Comment pouvez -vous résoudre ces problèmes en utilisant une base de données & #160;? Vous pouvez les résoudre en modifiant la structure de la table Personnes & #160; comme ceci & #160;:
+Si & kstars; réussit à communiquer avec le télescope, il retrouvera l 'AD et la Déc courantes depuis le télescope et affichera un croix sur la carte du ciel, indiquant la position du télescope.
+Accélération du centre de massePropertyName
+Confirmer la suppression
+Acrylonitrile ou nylon
+Module LancelotComment
+Un jeu memory-like pour KDEGenericName
+Saisie des chiffres
+Les flux audio des DVD vidéo sont normalement encodés avec un échantillonage de 48000 Hz. D'un autre côté, les CD audio sont encodés avec un échantillonage de 44100 Hz. Si cette option est activée, K3b modifiera l'échantillonage du flux audio en 44100 Hz.
+Activez cette option pour inclure les fêtes de votre carnet d'adresse dans le résumés des occasions spéciales à venir.
+KFloppy vous aide à formater des disquettes avec le système de fichiers de votre choix.
+Imposer la configuration à tous les utilisateurs
+Mode de sélection & #160;:
+5 - Établit une connexion MNP si possible, sinon fait une connexion directe.
+Ne conserver que les lignes qui correspondent à ce processus & #160;:
+Une autre raison explique que & konqueror; peut ne pas afficher le fichier ou le dossier que vous cherchez lorsque vous êtes censé avoir défini le module graphique Afficher un filtre pour n'afficher que certains types de fichiers.
+La zone d'informations est repositionnée sur la carte. Les zones d'information seront collées aux bords de la fenêtre, de telle manière qu'elles restent sur le bord lorsque la fenêtre est redimensionnée.
+Utilisez ces champs pour saisir quelques informations vous concernant. Toutes ces informations sont optionnelles et sont seulement utiliser pour personnaliser votre fichier KMyMoney.
+Ceci est un raccourci pris en charge par KDE pour basculer entre les dispositions. Il ne gère pas les raccourcis composés seulement de touches de modification et peut ne pas marcher dans certains cas (par exemple si une info-bulle est active ou depuis l'écran de veille).
+Nommé d'après la ville allemande Darmstadt où beaucoup d'éléments ont été découverts.
+Tous les fichiers'Playback 'menu
+L'interface utilisateur sera basculée en mode « & #160; Childframe & #160; » au prochain démarrage de l'application %1.
+Coller avec insertion...
+Modifiez la définition des animations dans la zone de droite
+Toute la collection & #160;: une liste de lecture contenant toutes les pistes contenues dans votre collection.
+Plage 0 de mémoire préemptive
+Une fois que toutes les barres d'outils sont créées, vous devez ajoutez et configurer les actions. Pour faire ceci, sélectionnez Configuration Configurer les actions.
+Outil de filtrage et opération de dessinComment
+Toutes les opérations sont terminées. number, operation description
+Afficher le volet de contexte
+Le protocole gérant le montage exécute les fonctions spécifiques au système d'exploitation qui permettent aux clients d'attacher des arborescences de dossiers dans leur système de fichiers local. Le processus de montage permet également au serveur d'accorder des droits d'accès distants à un nombre restreint de clients via le contrôle d'exportation.
+Étiquette de lecture
+Toujours utiliser la copie locale
+Ouvre une boîte de dialogue permettant de remplacer des chaînes dans votre message par d'autres chaînes.
+De plus, si vous voulez suivre un bogue qui a été reporté par rapport à une version marquée antérieurement, & CVS; vous offre la possibilité de récupérer le logiciel tel qu'il a été diffusé, en mettant à jour vers cette marque. Par ailleurs, si vous voulez récupérer une version antérieure de votre projet, vous pouvez mettre à jour votre copie de travail vers une date donnée. Ceci peut être utile si une erreur a été introduite dans le projet entre deux versions et que vous avez une idée du moment où elle s'est produite. Quand vous mettez à jour vers une date ou une marque, les versions de vos fichiers seront les mêmes que les versions à cette date ou que les versions estampillées par cette marque.
+Imprimer l' année
+Noir & #160;: Cela ne semble pas exister dans ce dossier.
+S'il y a beaucoup de balises pour le langage de balisage, il est recommandé de diviser les balises en groupes logiques. Vous devez créer une barre utilisateur pour chaque groupe. Dans ce cas, il n'y en a pas beaucoup, nous faisons alors une barre d'outils et nous l'appelons du nom du langage de balisage.
+Détails...
+Création de la clé annulée.
+Prendre de l'espace à l' enfant
+Forcer la déconnexion
+Mise à niveau de %1 comme dépendance...
+Copier le résultat au lieu de le coller
+Le fichier de police %1 est cassé, ou il est impossible de l'ouvrir ou de le lire.
+Aucune route par défaut trouvée, obligatoire pour %1 & #160;!
+Flèche élastique vers la gauche -·\\xleftarrow{}
+Dollar de Singapour
+Thème de couleurs
+Définir ici la nouvelle hauteur de l'image en pourcentage.
+indentationsensitive & #160;: si true, les indicateurs de pliage du code seront ajoutés en fonction de l'indentation, comme dans le langage de scriptage Python. Habituellement, vous n'avez pas besoin de le définir, du fait qu'il est réglé par défaut false.
+Contenant le texte & #160;: saisir du texte ici permet à & krusader; de lancer une recherche dans ces fichiers (grep). De cette manière vous pouvez rechercher des fichiers d'en-têtes (*. h) qui incluent le mot 'tester 123 '.
+Antonymes
+URL du dossier personnel
+Année fiscale précédente
+Sélectionner comment compter les cartes
+Le document peut être imprimé en sélectionnant Fichier Imprimer. La boîte de dialogue d'impression de & kde; apparaît. Un aperçu de la version imprimée peut être obtenu en sélectionnant Fichier Aperçu avant impression.
+Cliquez sur Afficher la situation. Cela affichera des informations à propos des flottes actuellement en vol.
+Réordonner les vignettes
+Petit et noir
+Le fichier de sous-titre %1 n'existe pas.
+Les points de contrôle de l'objet caméra
+Température Fixez ici la température des couleurs en Kelvin.
+Appliquer un flou gaussien sur une imageName
+Configurer le serveur d' impression
+La détection des messages infectés est effectuée par la création d'actions Filtrer par pour chaque outil dans un filtre spécial. Un autre filtre contient des règles pour vérifier si les messages sont infectés, des actions pour les marquer et les déplacer dans un dossier (optionnel, dépend des choix faits dans l'assistant). Les deux filtres sont configurés pour être appliqués sur les messages entrants et sur le filtrage manuel.
+Sélection Sélectionne une zone rectangulaire dans l'icône à l'aide de la souris.
+Je cherche toujours quelqu'un qui veuille bien écrire un bel outil d'analyse de log de page. Ce dernier devrait générer un rapport avec une sortie graphique similaire aux rapports de log des accès de Webalizer. De cette façon, vous pourriez avoir de belles statistiques qui pourraient être utilisées pour rendre compte de l'usage des imprimantes, dépendant du jour, de l'utilisateur, & etc; Alors, des volontaires & #160;?
+Agrafer toutes les 20 feuilles
+Configuration du transfert
+Il est impossible que les données de type %1 soient vides.
+L'argument est implicite
+Taux de naissance maximum
+Insère une nouvelle table vide, sans l'enregistrer. La fenêtre du concepteur de table apparaît.
+Groupe d'options Infobulle de la boîte à miniatures & #160;: ces options contrôlent les informations qui sont affichées dans l'infobulle qui apparaît quand le curseur de la souris passe au-dessus de l'icône de & kalarm; dans la boîte à miniatures.
+Attacher un étiquette temporaire lors du survol de la souris
+Chargement du catalogue personnalisé & #160;: %1
+Afficher d'autres événements - affiche des événements non inclus ci-dessus
+Fichier graphique
+Largeur de bande maximale (kbit) & #160;:
+Échec de lecture du nombre de fichiers de l'archive.
+Quel niveau de difficulté devra être l' ordinateur
+Barre de titre La barre de titre affiche le titre de la session si possible. @info: tooltip
+Impossible d'écrire dans le fichier temporaire %1, le supprimer.
+Vous pouvez écraser l'encodage par défaut défini dans Configuration Configurer l'éditeur... dans l'onglet « & #160; Ouvrir & #160; / Enregistrer & #160; » pour définir un encodage différent pour votre document actuel. L'encodage que vous définissez ici sera valable pour votre document actuel uniquement.
+Un index alphabétique de la plupart des commandes & latex;.
+Dolphin ne prend pas en charge les pages web, le navigateur a été lancé@info: status
+Diviser l'utilisation du processeur par le nombre de processeurs
+Utiliser le nom du dossier
+Revenir au précédent
+Amérique du Sud
+Impossible de recréer la socket.
+Annuellement le même moisevent recurs same day each year
+Les schémas sont groupés en lots de schémas dans un but d'organisation. Il est tout à fait correct d'ajouter plusieurs lots de schémas dans un document et & kivio; vous permet de mélanger librement les schémas provenant de différents lots.
+déplacement en cours
+Si quelqu'un a un moyen de contourner ce problème, il peut envoyer un message à Randy Pearson (blueboy@bamafolks. com).
+Flux importés
+Brésilien portuguais
+Par défaut pour les nouvelles & tâches
+L'option [label] vous permet d'ajouter votre propre système de labels pour les éléments de la bibliographie. Si aucun label n'est défini, les éléments apparaîtront dans l'ordre numérique & #160;: [1], [2], [3], & etc;
+La Basse-Carnioleslovenia_traditional. kgm
+Elle contient les boutons des outils de navigation standard & #160;:
+Barre latérale de listes de lecture
+Valeur@action
+L'onglet Préférences
+Démarrer la lecture de la piste actuelle.
+Personnalisation & #160;:
+Attraper une couleur
+% de la taille naturelle de l' image
+Sélection du type de police
+L'adresse de courriel que vous avez saisi n'est pas valable car elle se termine de manière inattendue. Ceci signifie que vous avez probablement utilisé un caractère d'échappement tel que « & #160;\\ & #160; » comme dernier caractère de votre adresse.
+Ajouter automatiquement les traces au corps du système solaire & #160; centré & #160;?
+Si cette option est activée, KDE affichera une fenêtre de confirmation si une fonctionnalité d'accessibilité du clavier est activée ou non. Assurez -vous de ce que vous faites, car si cette option n'est pas active, les fonctionnalités d'accessibilité du clavier seront appliquées sans aucune confirmation.
+Annule la dernière opération.
+Un module externe pour raccourcir les URL via le service is. gd. Name
+Marge de gauche Cette option vous permet de régler la marge de gauche de la page, si l'application ne définit pas elle-même ses propres marges. Ce paramètre fonctionne par exemple pour l'impression de fichiers texte ASCII, ou pour l'impression à partir de KMail et Konqueror. Remarque & #160;: ce paramètre n'est pas prévu pour les impressions à partir de KOffice et OpenOffice. org, car ces applications (ou plutôt leurs utilisateurs) sont censées le faire elles-mêmes. Il n'est pas non plus prévu pour les impressions de fichiers PostScript ou PDF, pour lesquels les marges sont le plus souvent prédéfinies dans le fichier. Remarque pour les utilisateurs avertis & #160;: cet élément de l'interface graphique KDEPrint correspond au paramètre suivant de la commande CUPS & #160;: -o page-left=... # utilisez des valeurs plus grandes que 0. 72 équivaut à 1 pouce.
+Le nombre d'entrées par leçon
+Alternativement, votre modem peut avoir besoin de temps pour répondre à son initialisation. Ouvrez la fenêtre de dialogue Commandes Modem dans l'onglet Modem et ajustez les délais Pre-Init et Post-Init. Regardez si vous avez plus de chance lorsque vous augmentez fortement ces valeurs, et faites un réglage plus fin ensuite.
+sélectionnez Aller Média de stockage depuis la barre de menus & konqueror;,
+Créer les combinaisons & Radical & #160; / & #160; Affixe absentes du dictionnaire@option:check
+Périphérique d' entrée
+Le message envoyé le ${date} à ${to} avec le sujet « & #160; ${subject} & #160; » a été manipulé. L'expéditeur n'a pas souhaité vous donner plus de détails.
+Couleur de fond pour l'affichage des différences & #160;:
+Flottes détruites
+Le script de configuration du serveur mandataire (proxy) n'est pas valable & #160;: %1
+Nœ uds mineur
+Voir une représentation arborescente graphique montrant les branches et les marques du fichier marqué.
+Vous pouvez choisir ici les paramètres spécifiques à certaines langues.
+Ne pas vérifier si la base de données sycoca est à jour
+Le moteur de traitement OpenPGP ne prend pas en charge la suppression de certificat. Veuillez vérifier votre installation. Seuls les certificats CMS sélectionnés seront supprimés.
+Rétrécir verticalement
+Saisissez le nom d'un hôte (comme « & #160; www. kde. org & #160; ») ou d'un domaine, en commençant par un point (comme « & #160;. kde. org & #160; » ou « & #160;. org & #160; »).
+Configuration du filtre des imprimantes
+L'importateur actuel ne reconnaît pas le type de compte GnuCash %1
+Le serveur auquel se connecter
+Originellement développé par & Matthias. Elter; & Matthias. Elter. mail;
+La tortue a un crayon qui trace une ligne lorsqu'elle se déplace. Il y a peu de commandes pour contrôler le crayon. Nous expliquons ces commandes dans ce paragraphe.
+Mode d'affichage en colonnes
+Raccourcis joueur 1
+Avant tout, utilisez une courtoisie simple. Les utilisateurs et développeurs de & kde; sont toujours prêts à consacrer un peu du temps de leur planning déjà très chargé pour vous aidez, et aiment savoir que vous appréciez leur coup de main gratuit. Soyez polis, dites « & #160; s'il vous plait & #160; » et « & #160; merci & #160; », et tentez d'être plaisant et amical.
+Votre système ne prend pas en charge les journaux d'audit pour GnuPG
+Éditer la chaîne sélectionné
+Tapez 100 et cliquez sur le bouton $.
+Détecter quand un URL (Uniform Resource Locator) est saisi et fournir un formatage qui correspond à l'emplacement d'un navigateur internet qui affichera l'URL.
+Afficher le nombre de non lus dans les fils de discussion
+Améliorations du code
+File distante %1 sur %2
+Cet affichage en arborescence gère les fichiers et dossiers de votre projet.
+Le débit binaire auquel effectuer l'enregistrement TV.
+Largeur de la fenêtre principale, en pixel.
+Si vous cliquez sur le bouton Annoter..., vous obtenez une boîte de dialogue qui montre le texte du fichier appartenant à la version marquée par « & #160; A & #160; ». Chaque ligne est préfixée avec les informations relatives à la personne qui les a modifiées en dernier lieu et la révision au cours de laquelle ceci s'est produit. D'autres informations sur l'affichage des versions annotées sont disponibles dans.
+Fin d'une petite pauseComment
+Démarré au plus tard
+Lorsque le système est inactif depuis plus de
+Pour poursuivre avec les exemples, sélectionnez les fichiers suivants du dossier d'exemple lt; PREFIXE DE KDEgt; /share/ apps/ kxsldbg.
+Validation du nombre saisi considéré comme un nombre exprimé dans l'autre devise
+Paramètres divers
+Emplacement du binaire xplanet
+Si vous avez besoin d'un un préfixe de numérotation (par exemple, si vous utilisez un standard), vous pouvez le spécifie ici. Ce préfixe est composé juste avant le numéro de téléphone. Si vous avez un standard téléphonique, vous devez probablement saisir « & #160; 0 & #160; » ou « & #160; 0, & #160; ».
+pas de sujet
+Vous pouvez simplement laisser la sélection par défaut et aller à l'étape suivante. Bien sûr, vous pouvez choisir n'importe quel type désiré.
+Ce message contient une demande d'accusé de réception, mais aucune adresse de réponse n'a été trouvé. Vous pouvez ignorer cette demande ou laisser KMail envoyer une réponse normale ou une autre indiquant que l'accusé de réception est « & #160; refusé & #160; ».
+Si vous appuyer sur ce bouton, tous les niveaux des canaux seront ajustés automatiquement.
+Il y a une erreur de guillemets dans les arguments pour la configuration de lancement « & #160; %1 & #160; ». Interruption du démarrage.
+Aller au bureau 7Comment
+Ensemble de commandes étendu
+Nom d'utilisateur à utiliser pour accéder aux services pour lesquels les invités sont acceptés. Tous les clients se connectant au service invité auront les privilèges de cet utilisateur. Cet utilisateur doit exister dans le fichier des mots de passe, mais n'a pas besoin d'identifiant valable. Le compte « & #160; ftp & #160; » est souvent un bon choix. Si un nom d'utilisateur est spécifié dans un service particulier, il est prioritaire.
+Courbe de Bézier non fermée
+L'onglet Divers vous donne d'autres informations sur l'élément courant, incluant sa date de découverte et l'origine de son nom.
+Brésil/ Ouest
+& kbounce; n'implante pas de fonctionnalité d'enregistrement pour le moment.
+Charger les sous-titres
+La combinaison Maj+Ctrl+bouton droit de la souris sélectionne
+Les patches, code nouveau ou nouvelles fonctionnalités sont toujours les bienvenus & #160;!
+Option permettant de choisir si l'utilisation du cache est nécessaire ou non et de définir sa taille. « & #160; Par défaut & #160; » utilise l'option définie dans « & #160; Paramètres KPlayer & #160; », « & #160; Auto & #160; » permet à MPlayer employer sa propre configuration, « & #160; Aucun & #160; » indique à MPlayer de ne pas utiliser de cache et « & #160; Définir la taille & #160; » permet de définir une taille spécifique.
+Choisissez un fichier dans lequel enregistrer
+Sélection de pixel
+Paramétrage du log des erreurs
+Erreur durant l'opération de copie du fichier & #160;: lecture impossible. Nom du fichier & #160;: %1
+Une fois que vous avez choisi la carte graphique dans la liste, appuyez sur le bouton Sélectionner pour choisir et charger la carte et le pilote.
+Notez que certains affichages et certaines opérations offertes dépendent grandement du système d'impression installé sur votre système et actuellement activé pour & kde;. Les pages affichant des informations sur les imprimantes n'affichent que les parties qui sont valables pour le système d'impression sélectionné par & kde;. (Donc, si vous utilisez d'habitude CUPS, mais utilisez temporairement Generic UNIX LPD Printing, ce qui est possible, vous verrez moins d'informations à propos des imprimantes, parce que LPD n'est pas capable d'utiliser autant de paramètres d'impression que CUPS).
+Capture d'écran de & juk; en action.
+Informations supplémentaires & #160;: %1
+Définissez ici le fournisseur du contenu. Ce champ est limité à 32 caractères ASCII.
+Une barre d' état
+Configure les paramètres de testComment
+Utiliser un économiseur d'écran non & kde;
+Afficher des informations de déboguage supplémentaires
+Hauteur d'image individuelle de drapeau. Le rendu de l'élément drapeau présent dans le « & #160; pool & #160; » sera effectué sur une image (pixmap) de hauteur Hauteur * Nombre de versions puis divisée en images individuelles.
+Détection et téléchargement avec digiKamComment
+Message du serveur mondial des meilleurs scores
+Ajouter un hôte
+Eau claire
+Téléchargement de l'article...
+Parabole avec directrice et foyer
+Traduction en polonais
+Rendements maximaux & #160;: @item: inlistbox
+Nouveaux messages SMSComment
+Copier ou déplacer une liste de fichiers vers un autre dossier
+Affiche la partie de l'expression rationnelle qui correspond à la zone de contrôle (la zone située en-dessous de la zone d'édition graphique).
+Le gagnant est celui qui possède toutes les cases.
+Lorsqu'on essaie de trouver la catégorie à laquelle une clé appartient, & kleopatra; tente de faire correspondre une clé à une séquence de filtres de clés, configurée dans le fichier libkleopatrarc. La première à correspondre définit la catégorie.
+Erreur & #160;: aucun fichier puzzle spécifié.
+La fonction STDEV() renvoie l'écart-type estimé fondée sur un échantillon. L'écart type est une mesure de la dispersion des valeurs par rapport à la valeur moyenne.
+Vous pouvez cacher la section Options en la faisant glisser vers la gauche.
+Impossible d'exécuter le programme de courrier électronique. Ceci est probablement dû au fait qu'il n'est pas installé. Pour installer le programme de courrier électronique de KDE (KMail), veuillez installer les paquetages « & #160; kdepim & #160; ».
+Erreur lors de la lecture du fichier index. xml depuis %1. Le fichier est peut-être endommagé.
+Voulez -vous vraiment supprimer l'outil %1 & #160;?
+nonComment
+(Ce compte ne gère pas Sieve)
+Saisissez toto (un mot) pour lancer une recherche rapide dans le panneau actif pour un fichier commençant par « & #160; toto & #160; ». Une petite boîte de dialogue de recherche rapide s'ouvrira en dessous du panneau actif. Saisissez la première lettre du nom de fichier désiré (mais plus d'une lettre est permis), le curseur ira à ce nom de fichier (si il existe), & pex; saisissez « & #160; ab & #160; » pour rechercher un fichier commençant par « & #160; ab & #160; ». La Flèche haut & #160; / bas ira au prochain ou précédent fichier. Echap fermera la ligne de recherche rapide. Le curseur restera sur le dernier fichier trouvé.
+procédureTag Type
+Paramètres système et utilisateur
+ý (#253;) Y minuscule, accent aigu
+Afficher dans Moamp; zilla
+Modifier la spirale
+Cet élément apparaît uniquement si un projet de CD/ DVD de données ou un projet de DVD Vidéo est ouvert. Il provoque l'importation de la liste des fichiers d'une précédente session dans le projet courant par K3b. Vous pouvez utiliser ceci lorsque vous rassemblez des fichiers pour des disques en multi-session. Alors les données de la session précédente sont toujours incluses, même si vous choisissez de ne pas utiliser cette commande. C'est simplement utile pour connaître ce qui est déjà présent sur le disque.
+Activer les astuces d' application
+p, li {white-space: pre-wrap;} Ordonnancement FIFO (file) Quand un processus de type FIFO devient prêt à s'exécuter, il préempte immédiatement tout processus de type Normal ou Batch en cours d'exécution.
+Le fichier de description est nécessaire et son extension est. kgm. Il doit commencer par map et se terminer par map.
+Thèmes pour la liste des pseudos
+Sortir le document complet vers la sortie standard
+suffixes -ise et sans accentsdictionary variant
+Avertissement & #160;: L'adresse de courriel de l'expéditeur n'est pas enregistrée dans le %1 utilisé pour la signature.
+Exemple d'échantillon & #160;:
+Sélectionnez le type de tableau & #160;: informaltable & #160;: le type de tableau le plus utilisé dans les documentations de KDE. Un tableau informel ne contient ni titre, ni en-tête, ni entrée dans la table des matières. table & #160;: un type de tableau formel complet, incluant un titre, une en-tête, et une entrée dans la table des matières.
+& Annuler les transferts sélectionnés
+krusader_kde4. tar. gz est le nom supposé de l'archive de Krusader (cela sera probablement un nom différent).
+Créez un fichier dans votre dossier personnel appelé. Xmodmap et ajoutez -le à ceci & #160;:
+Grec (Grèce)
+Si cette option est activée, les fautes d'orthographe classiques seront corrigées au cours de la frappe. Par exemple, si vous écrivez à priori, ce sera corrigé automatiquement en a priori.
+La carte
+Si cochée, les dossiers sont balayés récursivement pour chercher tous les fichiers.
+Ctrl; Maj; F9 Affichage Éditeur & VPL;
+Une application simple de KDEName
+Un module de mise en série d'Akonadi pour des objets QImageName
+& Classe du document & #160;:
+Ce dossier de type de mot contient des noms féminins.
+Conçu pour la base de KDE4, utilisant la technologie KDE4 & #160;: Matériel pris en charge avec l'interface de Solid Gestion plus facile à comprendre avec l'interface Phonon Géolocalisation simple avec l'interface Marble
+Distance paire & #160; / & #160; impaire entre les buses de la cartouche de gauche
+Kile a rencontré des problèmes lors de l'enregistrement du fichier %1. Avez -vous suffisamment d'espace disque & #160;?
+Définissez ici l'état ou la région d'origine du contenu. Ce champ est limité à 32 caractères ASCII.
+En cas d'utilisation d'une instance de kate déjà en cours de fonctionnement, bloque jusqu'à ce qu'elle se termine, s'il y a des URL indiqués à ouvrir
+Choisissez la couleur de fond pour la palette générée.
+Le joueur dé-sélectionneComment
+Ouvre une autre fenêtre avec la même présentation chargée de telle manière que vous puissiez travailler simultanément sur plusieurs diapositives.
+Échelle de racine carrée
+! = & #160;: activer et désactiver le listage des fichiers exclus & #160; / « & #160; ne sait pas quoi faire & #160; ».
+Impossible de créer le fichier « & #160; %1 & #160; ».
+Téléchargement du carnet d'adresses système
+Saisissez maintenant le code & #160;:
+Pas l'Estonieestonia. kgm
+Depuis cet onglet, vous pouvez modifier l'apparence visuelle de & kdm;, le gestionnaire de connexion de & kde;.
+Pas de planifications sélectionnées
+est remplacé par le nom de la prochaine feuille
+Affichage des paquetagesComment
+Si vous avez choisi un serveur mandataire HTTP ou SOCKS, saisissez l'adresse du serveur mandataire à employer ici, sous la forme foo. bar. com (non http: / /foo. bar. com ou http: / /foo. bar. com:8080).
+& Panneaux
+Pas encore de correspondance
+Ajouter la collection
+Pour utiliser un périphérique sur & kde;, amovible ou non, le périphérique doit d'abord être monté. Quand il est monté, & kde; récupère toutes les informations dont il a besoin pour ce dernier & #160;: comment le lire, comment y écrire des informations, et plus encore.
+Ligne actuellement sélectionnée
+La commande « & #160; su & #160; » a renvoyé une erreur.
+Confirmez -vous la suppression du client %1 & #160;?
+C'est votre tour de lancer le dé ou de doubler le cubeName
+Vous avez probablement remarqué que cette entrée est suivie de points de suspension après le nom de l'élément. Ceci signifie qu'en cliquant dessus, une boîte de dialogue s'affichera. Si vous faites des changements dans cette boîte de dialogue, ils ne prendront effet que lorsque vous cliquerez sur OK. Vous pouvez à tout moment ignorer les changements effectués, et fermer la boîte de dialogue, en cliquant sur le bouton Annuler.
+Espacement standard. Pas de règle spécifique pour la dernière ligne
+Impossible de trouver le certificat de l'émetteur d'un certificat consulté localement
+Redimensionnement et rotation de l' écranComment
+Sélectionner le dossier racine des modèles à utiliser
+Copier les balises de l'image précédemment annotée
+Résumé des exercices
+Les opérateurs mathématiques, booléens et de comparaison
+Atome précédent
+Sélectionnez si la prochaine cellule de droite doit devenir active quand vous appuyez sur la touche Entrée.
+Ce module vous permet d'imprimer les entrées de votre journalName
+Modules externes de fonds d'écran installés & #160;:
+La première chose à faire est de lancer & kspread;. Vous pouvez faire ceci avec le bouton gauche de la souris sur une icône de & kspread; s'il y en a une sur votre bureau ou votre tableau de bord, ou vous pouvez sélectionner Bureautique kspread; dans le menu K.
+Liste des moteurs de recherche, leurs raccourcis associés et s'ils doivent apparaître dans les menus.
+Relever le courriel
+Cette option est semblable à Disquette..., mais concerne un périphérique CD ou DVD.
+Ne démarre la lecture qu'après avoir cliqué sur le bouton « & #160; Lire & #160; »
+Affiche la boîte de dialogue Prise en charge des systèmes de fichiers. Cette boîte de dialogue affiche en détail les opérations pouvant être effectuées pour tels ou tels systèmes de fichiers.
+Boîte de dialogue pour filtrer les titres de la collection
+L'emplacement pointe sur un dossier contenant des Maildirs au lieu d'un maildir lui-même.
+Affiche & #160; / & #160; Cache le journal des messages
+Venir du bas
+Si vous souhaitez rendre une fenêtre aussi grande que possible, de manière à ce qu'elle prenne toute la taille de l'écran, utilisez le bouton Maximiser Maximiser une fenêtre, qui est le second à droite de la barre de titre. Cliquez avec le & BGS; sur ce bouton rendra la fenêtre aussi grande que possible dans toutes les directions, tandis que cliquer avec le & BCS; Maximiser une fenêtre Verticalement ou le & BDS; Maximiser une fenêtre Horizontallement va respectivement augmenter sa taille verticalement ou horizontalement.
+Envoyer à l'émulateur de terminal intégré
+La boîte de dialogue de renommage de fichier.
+Les actions non valables ou vides ne sont pas exécutées.
+Un terme déposé par & HP; pour décrire leur implémentation de transfert de données d'impression vers l'imprimante par un protocole nommé « & #160; AppSocket & #160; » ou « & #160; Direct TCP/ IP Prining & #160; ».
+Un mur en cours de construction a une tête qui s'éloigne du point où vous avez cliqué. Un mur n'est pas permanent tant que sa tête n'a pas atteint le mur opposé. Si une balle entre en collision avec une partie du mur différente de sa tête, le mur en cours de construction disparaîtra complètement et une vie sera perdue. Si une balle entre en collision avec la tête dans la direction de la construction du mur, le mur s'arrêtera là et deviendra permanent, sans perte de vie. Si une balle entre en collision avec la tête du mur d'un autre côté, la balle rebondira et le mur continuera à avancer normalement.
+Établir un périphérique INDI soit en mode local soit en mode serveur.
+Outils de base
+Attendre que l'autre joueur démarre la partie...
+Crée un nouveau signet pour la position courante du curseur. @info: whatsthis
+Gwenview ne sait pas modifier ce type d'images.
+Signer & #160; / Vérifier
+Deux techniques courantes sont disponibles pour l'authentification SMTP & #160;: SMTP après POP3 et SMTP Auth. SMTP Auth peut être paramétré dans l'onglet Général de la boîte de dialogue de configuration de SMTP. Pour utiliser SMTP après POP3, vous devez réunir tous vos messages dans la Boîte d'envoi et les envoyer juste après avoir relevé votre courrier entrant. Vous pouvez demander à & kmail; d'envoyer les messages en attente automatiquement avec l'option Envoyer les messages du dossier Boîte d'envoi dans la page de configuration des comptes.
+Détection automatique des fins de lignes
+Caractères sans compter les espaces & #160;:
+Génération d'une nouvelle paire de clés.
+Autoriser les connexions distantes à contrôler le bureau
+Motif de correspondance
+Taille horizontale de la grille & #160;:
+Configurer et planifier les tâchesName
+%1 vous donne les privilèges de demi-opérateur.
+Les couleurs et effets du fond d'écran sont contrôlés par les options de l'onglet fond d'écran et vous pouvez sélectionner une image de fond d'écran et son emplacement avec les options de l'onglet Papier peint.
+Configuration des associations de fichiersName
+En dessous les réglages du volume, & kmix; propose également des LED. Les règles utilisées pour les couleurs sont & #160;:
+Les combinaisons RVB (codes de couleur)
+Les copyrights pour chaque applet se trouvent dans le chapitre correspondant.
+Un modèle avec un nom identique existe déjà. Voulez -vous l'écraser & #160;?
+Il n'est possible de supprimer que les polices de « & #160; %1 & #160; » ou de « & #160; %2 & #160; ».
+Noms de fonctions prédéfinies et constantes
+Insérer les modèles & locaux
+Code IMEI à rechercher lors de la découverte des périphériques & #160;:
+Répondre à
+GraphismeThe group type
+Dessinez un rectangle autour du texte & #160; ou l'image à copier.
+La somme de contrôle MD5 pour %1 est & #160;:
+Centrage et suivi
+Marqueur de début non trouvé dans %1
+Cochez cette case si vous voulez utiliser les radians.
+& kmix; est compatible avec plusieurs plates-formes et pilotes sonores & #160;:
+Ignorer la taille
+La fonction ISTEXT() renvoie « & #160; Vrai & #160; » si le paramètre est une chaîne, sinon elle renvoie « & #160; Faux & #160; »
+Remplacer la fin du fichier
+Aplanir les courbes
+Propriétés
+Chargement de la fenêtre principale
+Configurer les paramètres des actions d' entréeName
+Ratio de partage maxmal atteint.
+inconnuQFileDialog
+Chaque joueur est représenté par une couleur (par exemple jaune ou blanche pour le joueur 1 et rouge pour le joueur 2). Le but du jeu est d'avoir quatre jetons de votre couleur sur une ligne, une colonne ou une diagonale. Les joueurs placent un jeton à chaque tour. À chaque tour, le joueur peut placer un de ses jetons sur n'importe quelle des sept colonnes où chaque jeton tombera le plus bas possible vers l'emplacement libre. Le jeton tombera jusqu'à ce qu'il atteigne le bas du plateau ou un autre jeton.
+Ne pas supprimer un nombre de fichiers supérieurs à & #160;:
+Systèmes de fichiers virtuels & vfs-lnk; virt: / n'est pas un dossier virtuel, mais un conteneur pour des & URL; depuis différents systèmes de fichiers. C'est utilisé & pex; pour la fonctionnalité Envoi vers la liste du module de recherche et le synchroniseur. La barre d'outils d'emplacement affichera & pex; virt: / Résultats de recherche 1 ou virt: / Synchronisation de recherche 1.
+Comme d'habitude, un code de retour valant zéro indique un succès. En fonction du mode de fonctionnement choisi, un code de retour non nul indique un certain problème rencontré par l' application
+Choisissez le premier des points dont vous voulez construire le milieu...
+utilitaire de comparaison
+Les changements apportés aux données de session (fichiers ouverts et si l'option est cochée, la configuration des fenêtres) ne seront pas enregistrées. Vous serez naturellement prévenu si vous avez des fichiers non enregistrés. Grâce à cette option, vous pouvez configurer vos sessions une fois pour toutes, sans vous soucier de fermer les fichiers supplémentaires que vous avez ouverts et que vous ne voulez pas voir ouverts la prochaine fois que vous utiliserez la session.,
+Comment configurer mes thèmes pour les lancer automatiquement au démarrage & #160;?
+Ajustement des tailles de polices & #160;:
+Cliquez sur l'un des carrés pour sélectionner la taille de la gomme. Vous pouvez choisir parmi des carrés de côté 2, 3, 5, 9, 17 et 29 pixels.
+Comportement lors d'un clic droit dans la barre de titre ou le cadre d'une fenêtre inactive.
+Intervalle de navigation (BrowseInterval) Le délai entre les mises à jour de la navigation en secondes. Par défaut, 30 secondes. Notez que les informations de navigation étant envoyées chaque fois que l'état d'une imprimante changent également, ceci représente le délai maximal entre les mises à jour. Fixez cette valeur à 0 pour désactiver les diffusions sortantes de sorte que vos imprimantes locales ne soient pas annoncées, mais vous pouvez toujours voir les imprimantes sur d'autres hôtes. ex & #160;: 30 Do not translate the keyword between brackets (e. g. ServerName, ServerAdmin, etc.)
+Possibilité de faible neigeweather forecast
+Nom De Fichier (première lettre de chaque mot en majuscule)
+Valider les opérations importées
+Afficher les étiquettes de l' image
+Lier la Stylewriter dans le dossier « & #160; / dev & #160; » (vers le périphérique approprié)
+--reminder-once période
+Effectuer cette opération va réduire la qualité des couleurs de l'image. Voulez -vous continuer & #160;?
+Descend d'une page dans les paroles
+Les thermomètres à contact diffèrent des thermomètres ordinaires dans la mesure où ils sont connectés à un chauffe-ballon, et sont ainsi capable de sentir et de contrôler la température courante. Ce faisant, ils permettent des expériences qui doivent être réalisées à température constante. Les thermomètres à contact fonctionnent en utilisant une boucle de rétroaction négative & #160;: une fois que la température voulue est atteinte, le chauffe-ballon est désactivé & #160;; lorsque la température redescend, le chauffe-ballon est réactivé.
+Impossible que le nom de réseau soit vide.
+Donnez le nom de la province pour l'emplacement désiré. Il peut être plus facile d'utiliser « & #160; Recherche de ville & #160; » pour choisir votre emplacement dans la liste des villes prédéfinies.
+Le glyphe n° %1 est vide.
+Comment puis -je importer les signets d'un autre navigateur vers & konqueror; & #160;?
+L'adresse du traqueur de bogues de & kde;; est http: / /bugs. kde. org.
+Beaucoup de travail sur le cadrage, ODT et les moteurs d'interface FictionBook
+Le joueur avec plus de 60 points gagne cette partie.
+Position de la page.
+& kommander; est un outil de construction de boîtes de dialogue qui peut être utilisé également pour créer des applications graphiques complètes. Le premier objectif est de créer autant de fonctionnalités que possible sans utiliser aucun langage de script. Ceci est possible grâce aux fonctionnalités suivantes & #160;:
+Type de contrainte d' ordonnancement
+& Ignorer le fil de discussion
+Niveau de difficulté du jeu.
+Un exemple & #160;: supposons que vous vouliez rechercher dans un texte des paragraphes qui commencent par l'un des noms « & #160; Henri & #160; » ou « & #160; Pernille & #160; » suivi d'une certaine forme du verbe « & #160; dire & #160; ».
+Profondeur de couleur & #160;:
+Rafraîchir la liste depuis AAVSO. org
+Au début de la partie, vous avez 100€. Vous distribuez cinq cartes et décidez lesquelles vous voulez conserver. Vous indiquez quelles cartes vous conservez en cliquant sur les cartes. Le mot Conservé apparaîtra au-dessus de la carte.
+Soit le fichier actuellement sélectionné existe ou le répertoire sélectionné n'existe pas. Veuillez -vous assurez que le répertoire sélectionné existe et le nom du fichier n'est pas déjà utilisé dans ce répertoire.
+La case à cocher Annuler si trop tard détermine ce qui se produit si l'alarme ne peut être déclenchée à l'heure programmée.
+Près
+La barre d'outil de & kdat; est composée de 6 icônes & #160;:
+Ouvre l'éditeur de signets
+Vous avez choisi une police à chasse variable. Étant donné que ce programme ne gère pas polices à chasse variable correctement, vous pourriez rencontrer des problèmes lors de l'édition. Voulez -vous continuer ou choisir une autre police.
+Sélectionnez le modèle que vous voulez supprimer. Notez que vous ne pouvez pas supprimer les modèles marqués d'une astérisque (vous n'avez pas de droit de suppression).
+Vous n'avez rien sélectionné à effacer.
+Suivre les & liens
+Des options de ligne de commande additionnelles sous fournies principalement pour permettre à d'autres programmes de s'interfacer avec & kalarm;. Elles sont décrites dans le chapitre Guide du développeur de & kalarm;.
+A fait les captures d'écran pour,, et le.
+La différence entre deux pixels est calculée comme suit & #160;: r 1, g 1 et b 1 sont les valeurs de rouge, vert et bleu du premier pixel & #160;; r 2, g 2 et b 2 sont les valeurs de rouge, vert et bleu du second pixel. La différence est alors & #160;:
+Déterminer mes habitudes, mes intérêts, ou mon comportement général
+avance (av)
+Lorsque cette option est cochée, KDM placera le curseur dans la zone de saisie du mot de passe après avoir présélectionné un utilisateur. Cela économise un appui sur une touche par connexion, surtout si l'utilisateur présélectionné change rarement.
+Les signets peuvent être placés comme des boutons sur la Barre principale ou la Barre d'outils. Vous pouvez même leurs ajouter une combinaison de touches & #160;:
+Le contenu de la chaîne ne correspond pas à la facette d'énumération.
+p, li {white-space: pre-wrap;} Enlève tous les fichiers de la liste, même si ils ne sont pas sélectionnés.
+Créer un nouveau modèle d'alarme fondé sur une copie du modèle sélectionné@info: whatsthis
+Ce réglage définit la devise de référence (euro ou dollar) ainsi que le site où & keurocalc; télécharge les taux de change entre la devise de référence et les autres devises. Les choix suivants sont offerts & #160;:
+Déplacer un objet
+Ne pas conserver en arrière-plan
+Quand vous voulez confirmer, annuler ou appliquer les modifications, choisissez parmi les Boutons d'action OK, Appliquer ou Annuler.
+Une expression valable qui définit la donnée nécessaire. Voir le site web du W3C.
+Proposé à & #160;:
+Format du titre d'un onglet & #160;:
+Afficher le panneau folioscope
+Pendant la tentative de sauvegarde, la suppression d'une sauvegarde précédente a échoué. Nom du fichier & #160;:
+Pour fonctionner correctement, Shaman doit être la seule application agissant sur %1, le système de gestion de paquetages. Shaman a détecté qu'une autre application active, par exemple une autre interface ou un autre programme de terminal, détient un verrou sur celle -ci. Veuillez la fermer pour reprendre l'opération normale
+La niveau du joueur noir
+Si vous ne détenez pas cette information, vous pouvez essayer imap. nom-de-votre-fai. com pour IMAP, ou pop. nom-de-votre-fai. com si vous utilisez POP.
+Afficher une liste de tous les modules externes chargés
+Guinée équatorialeCountry name
+orchidée 3color
+Interface en ligne de commande
+ludovic. grossard@kde. org
+La console de & kalgebra; est utilisée comme une calculatrice. Voici une liste des variables déclarées. En double cliquant dessus vous verrez une fenêtre de dialogue qui vous permet d'en changer leur valeur (juste un moyen de duper le log). Options du menu & #160;:
+Cliquez avec le bouton gauche sur le fichier à déchiffrer. Donnez votre mot de passe, et il sera déchiffré. Vous pouvez aussi glisser-déposer un fichier texte chiffré dans l'éditeur de & kgpg;. Il vous demande votre mot de passe, puis affiche le texte déchiffré dans l'éditeur. Vous pouvez même déposer des fichiers distants & #160;! Vous pouvez aussi utiliser le menu Fichier Déchiffrer un fichier..., puis choisir le fichier à déchiffrer.
+Bien françaisComment
+Expression rationnelle qui trouve le début ou la fin d'une structure
+Le New Jerseyusa. kgm
+& Assistant de gestion des virus...
+Aller à la bande dessinée...
+Impossible d'ouvrir le fichier %1 & #160;: %2
+Configure la fonctionnalité de Comparaison des dossiers
+Jouer le niveau suivant
+Masse molaire d'une solution
+La station requise n'existe pas.
+Correspond à n'importe lequel des suivants (OU)
+Échelle (rapport donné par deux segments)
+Sélectionner la page suivante
+Type de connexion brute & #160;: %1
+Pinceau dynamique
+Ouvrir avec la bonne application
+Ayez bien conscience du fait que, dans le mode disconnected IMAP, les données sont transmises d'un client à un serveur IMAP uniquement quand les clients se connectent pour vérifier l'arrivée de nouveaux courriers électroniques. Donc si vos clients & kmail; sont configurés pour effectuer automatiquement cette opération, disons toutes les cinq minutes, dans le pire des cas vous aurez un délai de 10 minutes entre la création d'un événement et son apparition sur les écrans des autres utilisateurs.
+Lors de l'installation de & kde;, des centaines d'associations analogues sont créées automatiquement, pour les types de fichier les plus courants. Ces associations initiales sont ciblées sur la base logicielle commune à la plupart des distributions et répondent aux préférences les plus courantes de l'utilisateur.
+Vous pouvez configurer ici le comportement du gestionnaire de fichiers Konqueror quand vous cliquez sur un fichier de ce groupe. Konqueror peut afficher le fichier de façon incorporée ou lancer une application séparée. Vous pouvez modifier ce paramètre pour un type de fichier spécifique dans l'onglet « & #160; Incorporation & #160; » de la configuration du type de fichier. Dolphin affiche toujours les fichiers dans une application séparée.
+CONTINUOUS(principal & #160;; intérêt & #160;; années)
+Rafraîchir
+Nom de la catégorie & #160;:
+Qu'est -ce qu'une tablature & #160;?
+Cette page répertorie tous les modules externes disponibles et vous pouvez cocher ceux que vous souhaitez employer. Dès qu'un module externe est coché, le bouton Configurer devient actif et vous pouvez cliquer sur ce dernier pour configurer le module externe mis en évidence.
+Vous devez soit fournir un nom de fichier pour l'archive, soit un suffixe (tel que « & #160; rar & #160; », « & #160; tar. gz & #160; ») avec l'argument --autofilename.
+Mode Colonne 1 -gt; Colonne 2 ordre aléatoire
+La République tchèqueworld. kgm
+Caractéristiques de & kmid;
+Afficher la liste de lecture
+Toujours remplacer les fichiers existants
+Choisissez le dossier où vous créerez votre projet. Votre dossier personnel / src est un bon emplacement par défaut.
+Impossible d'actualiser la ligne car aucune table principale a été définie.
+Vous pouvez choisir un hôte dans la liste, et cliquer sur le bouton Changer... pour choisir une politique différente pour cet hôte. En cliquant sur le bouton Supprimer, la politique concernant cet hôte est retirée & #160;; après suppression, la configuration globale s'appliquera à cet hôte. Vous pouvez importer des politiques depuis un fichier en cliquant sur le bouton Importer.... Pour enregistrer la liste actuelle dans un fichier archive compressé, cliquez sur le bouton Exporter....
+« & #160;) & #160; » attendu. Trouvé %1
+Fichier Exporter des flux...
+(12) & #160;: Basculer en plein écran.
+Dossier où déplacer les données téléchargées.
+Cochez cette option si vous voulez rendre visible que votre application a démarré. Ce retour d'information peut apparaître comme un curseur occupé ou dans la barre des tâches.
+Direction du vent
+Le fichier journal doit correspondre au nom ou de l'emplacement d'un fichier local ayant un droit d'écriture. @info
+Un clic de souris dans la colonne du sommaire synchronise toutes les fenêtres pour indiquer la même position.
+L'envoi du courrier électronique a échoué@info
+Choisissez cette option pour synchroniser avec le serveur MAL à chaque HotSync, qui doit avoir lieu au moins une heure après la synchronisation MAL précédente. Pour effectuer une synchronisation réussie, vous devez avoir accès au serveur MAL pendant la HotSync.
+Modifier le pseudo...
+À propos
+Images opaques pour les boîtes de dialogue
+Charger les & sous-titres...
+Voulez -vous envoyer une mise à jour à l'organisateur de cette tâche & #160;?
+Désindente les lignes sélectionnées ou la ligne actuelle.
+la date depuis
+Saisissez l'intervalle de temps (en jours) séparant deux répétitions de l'alarme@info: whatsthis
+Quantité d'ajustement de décalage des sous-titres lors de l'utilisation des commandes « & #160; Augmenter/ Diminuer & #160; »
+Impossible de créer un fichier de sauvegarde du fichier %1. @info/ plain
+Saisir le texte assigné à une variable spécifiée
+Sélectionnez la taille d'impression de la police & #160;:
+Copie toutes les pages d'un document. Vous devez choisir le nombre de copies triées.
+Nombre non signé
+chiffres
+Les fonctionnalités permettant de restreindre l'édition ou la copie d'une feuille de calcul ou d'une partie d'une feuille sont aussi faciles à contourner.
+Message en cours d' envoi
+Afficher un lieu
+Voulez -vous vraiment supprimer l'image %1 & #160;? Cette opération est irréversible.
+Si vous avez déjà travaillé auparavant avec un agenda personnel électronique, vous serez très à l'aise avec & korganizer;. Vous pourrez saisir de nouveaux événements, replanifier des événements existants, leur assigner des catégories, créer des catégories supplémentaires, saisir et modifier des listes de participants et leurs rôles, envoyer automatiquement des invitations par courrier électronique et échanger des données avec d'autres calendriers gérés par & korganizer;.
+Bruine mêlée de pluie verglaçante weather forecast
+Lors de l'ouverture d'une copie locale depuis un référentiel local, démarrer une commande Fichier-gt; État automatiquement
+Nous allons examiner un simple exemple pour apprendre à connaître & kchart;. Au cours du chemin, nous discuterons aussi de l'interface utilisateur, et, ainsi, vous apprendrez beaucoup de détails du composant.
+Prise en charge des langagesName
+Prenez soin de vous assurer que la zone de texte Espace libre avant affiche réellement « & #160; 0 & #160; Mio & #160; » car sinon, il resterait un petit espace libre entre les partitions qui serait alors gaspillé.
+Colorimétrie absolue
+Ce joueur ne peut pas être supprimé. Il y a des parties d'associer avec %1.
+Lorsque vous décochez l'option Sons, les effets de sons associés à & blinken; seront supprimés.
+Choisit la couleur du fond pour le mode Gestionnaire de fichiers.
+Se positionne sur une ligne particulière du texte affiché.
+Active & #160; / désactive le fondu entre les pistes.
+Service actuellement indisponible
+L'identifiant système ou public a été résolu en. %1
+Vue aérienne
+Le catalogue de Messier est une liste des 110 objets non stellaires les plus brillants du ciel. Cela inclut des objets aussi célèbres que la Nébuleuse d'Orion (M & #160; 42), la galaxie d'Andromède (M 31) et les Pléiades (M & #160; 45).
+Configuration des tailles d' icônes
+Saisir ici le titre de la galerie
+Sélecteur de module externe vidéo. Vérifiez toutes les méthodes d'entrée que vous voulez utiliser.
+À l' extinction
+Utilisations de %1
+Aucun service KDE trouvé pour ce type de fichier.
+L'url du document existe toujours & #160;: %1
+Vous pouvez ajouter votre propre menu contextuel à & kspread;, de telle manière qu'une action sur une combinaison de touches fera apparaître le menu, puis, et actionnant la seconde touche ou en utilisant les touche Flèche Haut et Flèche Bas et Entrée, en sélectionnera un élément.

@@ -1,0 +1,500 @@
+Load the xsldbg's options and user preferences from disk
+These control the mode of the channel. Only an operator can change these. A S ecret channel will not show up in the channel list, nor will any user be able to see that you are in the channel with the WHOIS command or anything similar. Only the people that are in the same channel will know that you are in this channel, if this mode is set.
+PCI subsystem could not be queried: %1 could not be executed
+The'Show Status Bar 'command shows or hides the status bar.
+Choose the English language
+Wrong subnetwork specification.
+kfontinst and kfontview should probably get a mention too, since they do n't seem to have any existing docs.
+Statusbar, active background:
+Enter the time to schedule the alarm. %1 %2
+The filename prefix should not be more than 5 characters.
+Create single file
+French (auto-generated) 2
+Akregator feed icon - DBus Call failed
+The view displays some information about the current file, including its type, the location of storage and the size.
+Construct the vector difference of this vector and another one.
+Add an attachment to the mail. This can be repeated
+Focus Log/ Messages View
+Customize the grid appearance for all forms. When Show Grid is checked, all forms show a grid.
+Regular expression to match:
+& Selected:
+The KDE Control Center
+Moved by Cursor Keys
+Exchange compatible invitations naming
+Rename the selected Budget.
+Error opening file.
+& Rescan
+Click to add a new attendee
+four in line
+Enables support for plugins in web pages.
+A rectangular building with empty space in the middle
+Animate Items Disappearance
+Try not to build contraptions where only one line remains undone. Your opponent will almost certainly take an advantage of it.
+Uninterruptible power supply (UPS)
+Standard light C
+Since there is only one file per event, to-do, or journal entry, & korganizer; does not need to parse one big calendar file, sometimes with thousands of items when saving or loading, just one single calendar item. Also, in case of file corruption, you will lose only one calendar item, not the whole calendar.
+Send message to'address' resp. attach the file the'URL 'points to
+View Panel: view the current file
+& kdesvn-build; can ensure that & kde; developers that use & ssh; to access the & kde; source repository do not accidentally forget to leave the & ssh; Agent tool enabled. This can cause & kdesvn-build; to hang indefinitely waiting for the developer to type in their & ssh; password, so by default, & kdesvn-build; will check if the Agent is running before performing source updates.
+GESTEP(4; 3) returns 1
+The backup can not be restored. Either the mysql application is not installed, or the bzip2 application is not found. Please install those and make sure they can be found in the current path. Restart this Assistant when this is fixed.
+Classify as Spam
+Rows in the dialog:
+Color Transfer Filter
+Deep Sea
+Network Configuration
+The server did not accept a blank sender address. %1
+Font for Annotate View...
+To override a session type, copy the. desktop file from the data dir to the config dir and edit it at will. Removing the shipped session types can be accomplished by shadowing them with. desktop files containing Hidden=true. For the magic session types no. desktop files exist by default, but & kdm; pretends they would, so you can override them like any other type. I guess you already know how to add a new session type by now.; -)
+The Image Window provides the main view of your images. When you select an Album the images contained in that Album will be displayed in the Image Window. Each image is displayed as a thumbnail. You can alter the size of the thumbnails using the magnifier slider in the lower right of the status bar.
+Fetching
+Subtract the amount of idle time from all active timers but keep them running.
+Use GnuPG agent The GnuPG agent stores the passwords for your secret keys in memory for a limited amount of time. If you use your secret key again while it is cached you do not have to enter it again. This is less secure than typing it every time.
+Configure...
+Execution of %1 failed.
+days
+No Samba server installed on this system
+Shell Command Plugin for Konqueror
+Brush (B)
+Mod and IntDiv
+Three cards of the same rank
+This will install the Oxygen cursors into your system and combine them as a cursor theme. Caution: This option tweaks your Windows registry.
+Open a dialog where you can configure the shortcut keys for & palapeli;
+System status information
+The Account Summary contains a grid displaying a row of information for each Asset and Liability.
+ID name:
+Designable
+Command "%1" cannot be executed. Cannot change working directory to %2.
+Sorting numbers can range from 00 to 99, but no higher.
+sq inch
+New Moon
+Cannot rename currency. %1
+No record found
+Enter the user name you want to run the application as here.
+Data written
+Resizing Options
+Checking your Bluetooth Device for input capabilities...
+Check the box to enable all the messages that you have previously disabled by choosing the "Do not show this message again" option.
+Configure Validator
+Additional English festival voices are available from
+Optional Settings
+Attach to a process
+This is the regular expression "dot" (.). It matches any single character.
+Personalize the keybindings for & kmplot;.
+Latest start time allowed by dependencies
+The check box labeled Enable word replacement is used to toggle on and off the autoreplacement features of & kpresenter;. If there is no mark in the check box, then & kpresenter; will not perform any autoreplacements from the list in this dialog.
+Select Verify... from the File menu.
+Cannot open font file %1.
+Whether or not the black windmill arm is on bottom or top - the default is that it is on the bottom. The two half-walls will always be with the arm. Note that you cannot enable a border wall on the side that the arm is.
+Console foreground
+Remove settings stored in folder by View Properties Saved in Folder.
+This is the root folder where all of the project files and folders will be stored.
+Display only the number of the current slide
+The electron is a subatomic particle with a mass of m[sub]e[/ sub]=(9.1093897 & #177; 0.0000054)e-31 kg and a negative charge of [i]e[/ i]=(1.60217733 & #177; 0.00000049)e-19 C \t\t
+Choose File
+Slovenian
+How the space of an item is split into subareas for children is left to the implementation. It is always better to try to split areas in such a way that rectangles are as quadratic as possible, both for labeling and less space lost by borders. The best methods in this regard are Rows, Columns, or Recursive Bisection.
+Use system HTTP proxy:
+Navigate forward one step in the preview after having gone back in the preview.
+Reduce volume by %1
+From & Clipboard...
+Calculated estimate variance
+Specifies the relation with the parent.
+Macedonia
+The default K3b DCOP interface provides functionality like copyCD, formatDVD, and methods for creating new projects.
+Scottish Male, MultiSyn
+Enter the copyright notice to identify the current owner(s) of the copyright here.
+By default, the command will be run in the working folder of the kate process, which is usually your home folder. This can be changed in the configuration page for the plugin.
+Create the phone_numbers table, in a similar way as persons table.
+The restore process ended unexpectedly. Please report a bug, so we can find out what the cause is.
+8 vectors
+How do I get a nicely formatted listing of available options for a given printer or & PPD;?
+Malagasy
+Add noise to an image
+The amount of time remaining in current song
+You can change the points which are needed to win the game and the time for a round. After the time is over, the sudden death mode will start.
+Even smaller font sizes for titles
+Memory view
+Could not find an entry named %1 in colors. dat.
+Disconnect
+Draws some intersecting planes, making use of alpha blending, fog, textures, and mipmaps. Written by David Konerding; 1999.
+Copy Message to Folder
+Red Player
+Each row contains a single property.
+Out of memory
+Heavy Rain Showers Fog/ Mist
+A folder or a file named %1 already exists.
+Apply Texture
+New Network
+Add & Separator
+A lightweight replacement shell for KDE 4
+Searching for duplicates (from %1 to %2)...
+Mexican Spanish Female, OGC
+Expected Liquid Assets
+Ascending
+Highlight Color
+%U - a list of & URL; s
+By default, message folders on disk are...
+Grandfather's clock is a simple patience game. With some experience you should be able to solve most deals. It is played with one card deck. The aim is to put the cards as real ascending sequences on the foundation.
+Disconnected to the OpenVPN manage port (%1).
+Settings are kept in the $HOME /. kde or $HOME /. kde2 subfolder in your home folder. Copy your old. kde /. kde2 folder to a backup location, install & kde; 3.2, and then copy back any necessary mail and news settings. That said, most people can make a direct upgrade, without removing the old. kde folder, without a hitch.
+Open with File Manager
+Show Previous
+File %1 not found.
+Element %1 cannot have children.
+Print element backgrounds
+the extension %1
+Could not write to file %1. The disk in drive %2 is probably full.
+There is already a script package named %1 installed.
+network failure occurred
+GStreamer engine
+F8 Project...
+In a menu on my machine
+& Middle-click action:
+with previously most often used transaction for the payee
+Show a Curve
+Oversize 11.7 x 22 in
+This takes an image, divides it into a grid, and then randomly shuffles the squares around as if it was one of those "fifteen-puzzle" games where there is a grid of squares, one of which is missing. http: / /en. wikipedia. org/ wiki/ Fifteen_puzzle Written by Jamie Zawinski; 1994.
+If a laser beam does not interact with any ball in the black box, it comes out at the point opposite the entry point. Example: Suppose we have 3 balls in the box as shown. They will not affect laser beam "1". As the game progresses, each pair of entry/ exit points is marked with a different number.
+Please report any problems or feature requests to the & kde; mailing lists or file a bug at http: / /bugs. kde. org.
+& Play
+Ctrl+Shift+P
+If selected, OpenSSL will be asked to use the given file as entropy for initializing the pseudo-random number generator.
+What is a Regular Expression
+Schedule upload and download limits over a period of a week
+The Rox 3D sudoku with 16 symbols
+The caret (^) starting the expression is an assertion, being true only if the following matching string is at the start of a line.
+Copy: Edit Copy equivalent; copy the selection to clipboard.
+Play Media
+To remove & kalarm; from the system tray, do one of the following:
+Portugal Provinces (traditional)
+This input file does not exist.
+File Import/ Export Import Tasks from Planner...
+Single sided
+Current length variance
+To view a & kde; Help page, enter help: / application name (for example help: / kmail to view the & kmail; documentation.) into & konqueror; 's Location Toolbar window.
+Maximum share ratio:
+and this second point
+The first thing you can set here is the font size. There are two settings which work together to allow you a comfortable browsing experience.
+Could not find the KFileReplace part.
+Africa/ Lome
+Number of seconds to wait before updating
+Messaging client is not running
+Needs full localization review
+Import with codec %1
+The username that identifies you against the mail server
+Select all tracks
+Getting Started: The Templates
+Notifications that display a dialog on your screen, that you must then dismiss, will be spoken.
+Displays a list of known applets
+Toggle the Main Toolbar
+The taskbar is up next on the panel. It shows an area for all open windows on all desktops by default. You can make it show all open windows on the current desktop only by checking Only show tasks from the current desktop when you right click on the task manager, between two windows. The size of the text on the taskbar items can be set in & systemsettings; under the Appearance Fonts Taskbar. Right-clicking on the taskbar brings the Settings dialog where you can choose several options to customize your taskbar.
+Persan
+Activity Bar
+Font for the taskbar
+Invoking khelpcenter with no parameters opens the default welcome page.
+not properly installed
+After startup initiate connection using selected profile
+Number of context lines in the diff dialog:
+This is the name that is shown in the new game dialog and in the About Course dialog.
+Configure the keyboard shortcuts used by & kspread;. See the section on configuring shortcuts for more details.
+Delay reactivity of keys.
+Next, fill in the Email address field with your email address (eg; john@example. net).
+Failed to load file:
+You should enter your filename mask in this combo box.
+Typing a lot of nested environment tags, you may lose control of all those environments. This command will close the last opened environment, so that the nested structure of environments will not be broken.
+Trying to migrate '%1 'to resource...
+Press this button to define a new filter.
+Red balls move with constant speed on the game field bouncing off walls until colliding with another ball, which causes the speed and direction of both balls to change.
+When the Color settings are locked down the user can no longer change them.
+Proportional (1 dim.): standard auto-resizing using one dimension. The width or the height of the images will be automatically selected, depending on the images' orientations. The images' aspect ratios are preserved.
+Once you have generated HTML pages, your pages may still not be in their final destination, you may still need special upload procedures out of the control of & kphotoalbum;. For the Import feature (see) to work, you need to specify the final destination of the pages. Again this does not include the subdirectory of the current generation.
+Level 3
+Custom format information...
+Only applies if you are viewing a document or web page, uses the Save As... dialog box to let you save a copy to your own computer.
+Run a demonstration of puzzle moves.
+When selecting text by dragging the mouse, the selected text is copied to the clipboard, and can be pasted by clicking the middle mouse button in the editor, or in any other application to which you want to paste the text.
+This check box specifies whether the text is sent as standard input to the speech synthesizer.
+Edit selection
+Instantly solve the puzzle.
+You must now provide a password for the certificate request. Please choose a very secure password as this will be used to encrypt your private key.
+New Form Select a template for the new form and click the OK -button to create it.
+The Celestial Equator is an imaginary great circle on the celestial sphere. The celestial equator is the fundamental plane of the Equatorial Coordinate System, so it is defined as the locus of points with Declination of zero degrees. It is also the projection of the Earth's equator onto the sky.
+Bridge control
+No description available.
+Do you want to execute or queue this job in the outbox?
+Semantic Code Highlighting
+The billing day of the month can be any day from 1 - %1, and the complete date must be a valid, non-future date.
+Foreign language meaning:
+Script to automatically remove torrents when they finish downloading or seeding
+Regular expression used on all file names. For example using selection "" and replace with "_" would replace all the spaces with underlines.
+in that for each & CD; a subdir named: cdartist - cdtitle - year
+Quiz Settings
+Show image file name
+View Primary Event Type
+To move to a different virtual desktop, you can use Ctrl; Tab; in the same way as you would use Alt; Tab; to switch between windows (see): Hold down & Ctrl; and then press & Tab;. A small popup window appears, showing the virtual desktops, with one highlighted. If you release & Ctrl;, & kde; will switch to the highlighted virtual desktop. To select a different desktop, press & Tab; repeatedly, while holding down & Ctrl;. The selection moves through the available desktops. When the desktop you want to switch to is highlighted, release & Ctrl;.
+& kphotoalbum; allows you to export a set of your images into a. kim file, which other people may import into their database, to get your classification for these images.
+Rename download
+Could not open "%1" - unsupported image format. The file may be corrupt.
+Could not find wpa_supplicant binary. Without it, Kwlan cannot connect to encrypted networks. Please check your wpa_supplicant installation.
+You set the channel mode to'secret '.
+libsmbclient failed to initialize context
+Settings Computer Skill Unbeatable
+& Underlined
+Starting audio conversion.
+questions characters
+& Add Primary Key
+& Redirect...
+Opening and closing parentheses do not match in regular expression.
+Display Images and Videos with Changed MD5 Sum
+Do not save the username in config nor KWallet
+Creating new directories is allowed only in the'virt: / 'directory.
+Formatting may be done with XHTML tags
+Doubleclick opens the setup dialog.
+If Autodetect is: ON then K3b will set the correct VideoCD type. OFF then the correct VideoCD type needs to be set by the user. If you are not sure about the correct VideoCD type, it is best to turn Autodetect ON. If you want to force the VideoCD type, you must turn Autodetect OFF. This is useful for some standalone DVD players without SVCD support.
+An activity that puts widgets on two columns
+Show & More
+%1x%2x%3 mat, %4 shuffling moves
+XYZ (16-bit integer/ channel)
+topic protection
+Toggle whether constellation lines are drawn in the sky map.
+Image histogram adjust levels plugin for digiKam
+Color used for frame on back of flashcard
+Vatican City
+The torrent "%1" has reached its maximum share ratio. Ignore the limit and start seeding anyway?
+& Follow Last Link
+To change the mapping of any button, click it using the mouse. It will then be highlighted, waiting for input. Press the desired key on the keyboard to change the currently assigned key.
+Open an existing session. The Session Chooser dialog is displayed to let you choose one.
+Please enter a valid email address at the identity tab of the account configuration dialog.
+For whom do you want to encrypt?
+Output file name:
+Communication error: %1
+Hide main window on startup
+The following explanation is borrowed from tksysv (an inspiration for & ksysv;):
+Remove Webseed
+Look and Feel
+Attendee list
+360x360dpi, high resolution paper
+Is a tray icon used
+Analogous restrictions as in the add header action apply here, too.
+Do you want to apply your changes before the scan? Otherwise the changes will be lost.
+Both lists contain entries described by the short from of the attribute (eg; CN) as well as the spelled-out form (Common Name).
+Usage: %1close [window] closes the named channel or query tab, or the current tab if none specified.
+Cannot run worker.
+Analog out 1:
+Maximum number of modems reached.
+Searching previous session
+Address Manager
+Add to Favorite Folders
+The LARGE() function returns the k-th largest value from the data set.
+You can delete a Tag by right-clicking on the Tag you want to delete and selecting Delete Tag. When you delete a tag, the photographs themselves are not deleted. Simply the tag is removed from those photographs.
+Lyrics: Fetching...
+Number of wav files to encode at a time: If you have a dualcore or quadcore machine or even a multi-processor machine, you can try to encode more than one file at the same time.
+Select objects brighter than:
+Remove from ignores...
+femtojoules
+Create Account Now
+Show & placemarks
+Detailed Settings
+The player loses a life when the ball touches the bottom of the field and there are no other balls left in the game, or when he catches a lose life gift. When losing a life 1000 points are detracted from his score.
+A conflict was detected between your local copy of the incidence and the remote incidence on the server. Press the "Take Both" button to keep both the local and the server copies.
+The Refocus technique works differently from Unsharp Mask and is also unlike the Sharpen Filter which both increase the contrast of the edges of an image. Refocus rather reverses the process by which the image got blurred by the circular aperture of the camera. This method gives you as much of the original & quot; in focusquot; image as possible. Refocus uses a very powerful deconvolution algorithm that will reclaim the data that has been mixed up. In mathematical terms, blurring is usually the result of a convolution, a deconvolution will reverse the process, this is exactly what Refocus is doing. Furthermore, the FIR filter technique allows to remove much of the noise and granularity that often gets accentuated in the sharpening process of all sharpening filters.
+The following variable are available:
+Use anti-aliasing
+If the page uses a background image, you can get and save that with the Location Save Background Image As... option.
+The Properties tab
+unexpected SFTP error: %1
+Encryption preference:
+Displays a dialog box which contains details on the selected line. You are able to navigate through the logs from this dialog box with the Previous and Next buttons.
+& Host:
+Header Content
+Every 15 Seconds
+Strigi service failed to initialize, most likely due to an installation problem. - This should rarely occur that means that a mandatory plugin could not be loaded. This can be due to an installation problem (missing dependency) or due to a faulty setup of the & kde; plugin system.
+Set up of Fonts, Colors and Style
+Center View
+Minimize Full Screen Window
+Uploaded
+Get Informed
+You can also select a directory via "Dir...". If for A a directory is specified then a directory-comparison/ merge starts. If A specifies a file but B, C or the output specify a directory, then & kdiff3; uses the filename from A in the specified directories.
+Eject CD tray after finished extraction
+Orientation
+Click this button to add the DNS server specified in the field above. The entry will then be added to the list below
+Editing
+Select an item from the drop down box, either to disable autodetection or use Universal to enable autodetection for all encodings. But as this may probably only detect utf-8/ utf-16, selecting a region will use custom heuristics for better results.
+Select the end point of the new vector...
+The attribute %1 must appear on element %2.
+Can I use the keyboard to play this game?
+Down
+Windows Shares
+New Karbon14 document:
+Failed to open the log file.
+File writer failed.
+Channel Sidebar
+Create From Scratch
+Maximum number of logs to be displayed
+General (1)
+Message Save in Drafts Folder
+Message has been displayed
+It is not possible to use this server.
+Konqueror Behavior You can configure how Konqueror behaves as a file manager here.
+Configure Upload Profiles
+Check this box if you want the spellchecker to ignore the title case, for example My Own Spreadsheet or My own spreadsheet. If this is unchecked, the spell checker will ask for a uppercase letter in the title nouns.
+This reduces the entire image or selection to grayscale.
+Display hidden files and directories in the preview dialog. The hidden files and directories are those whose names begin with a period. They are usually needed for very specific purposes (storing the configuration information for an application, etc.). Since they are not of any importance for your regular work, you normally do not need to enable this feature.
+Crystal 3
+Montana
+Decrypt Message
+Find the previous cell containing given text.
+Force
+& marble; measuring
+Right
+A screenshot of & cervisia; 's import dialog
+Project Properties
+Removes a column from the spreadsheet
+Warn me when I visit a site that uses my non-personally identifiable information:
+Enable this checkbox to alter this window property for the specified window(s).
+Additional debug information:
+On the other tabs of the dialog, configure this session's appearance. You can configure a different font, colour scheme, $TERM type and many other settings for each session.
+Red Sea
+Setting additional network routes...
+... that you can view the HTML source when using project preview with PHP (or other server side scripting) in Quanta? right click on a preview and select View Document Source and Quanta will load a tab with the rendered HTML.
+If a file already exists in the destination folder, select a different name to use by adding a suffix to the file name
+This opens a new, blank, tabbed page view. You can then download a web page into it by typing the & URL; into the Location Bar or by making a selection from the Bookmark Toolbar or the Navigation Panel history page.
+One of the configured OpenPGP encryption keys does not contain any user ID with the configured email address for this identity (%1).
+File %1 contains the old binary format used by KMyMoney. Please use an older version of KMyMoney (0.8. x) that still supports this format to convert it to the new XML based format.
+Task reported %1% completed
+Cannot determine metadata
+How to Create a Simple Report
+Using with Festival (Interactive)
+The high level implementation of a system using the Remote Frame Buffer protocol is known as Virtual Network Computer, or more often just as VNC.
+& CUPS; does the print accounting by passing nearly every job through the pstops filter. This one does, amongst other things, the page counting. Output of this filter there may be piped into other filters (like pstoraster -- > rastertopcl) or sent to the printer directly (if it is a & PostScript; printer).
+Remove entry for this language
+Show list of trackers
+No backend support for S/ MIME
+& Duplicate site
+See the dedicated CD; Archiving manual for more information.
+& kopete; makes it even easier to set a status message to let your contacts know about your mood or why you're busy at the moment. Click on the Set Status Message button and start typing to enter a new message, or choose from one of the previous messages you have used.
+down
+File Name without Extension
+Timeout expired while waiting for the PPP interface to come up.
+Do you really want to delete this image? It cannot be restored.
+& Recurse subfolders
+If you want to store this information, select Store to proceed. In case you did not create a wallet so far, the next dialog asks for the wallet password and creates a wallet named kdewallet.
+When selected, this option will replace the standard keyboard double quotes, with typographical quotation marks. If you want to change the quotation character, click on one of the buttons. Clicking on Default, restores the default quotation marks.
+There are a useful shortcut for adding events:
+The City name of the current geographic location.
+Chord
+Channel Topic
+This is Player4
+French Guiana
+& Abort Closing
+Russian Ruble
+Last-used profile found: %1
+The protocol %1 is not supported by the KDE programs currently installed on this computer.
+View Secondary Event Type
+Generic Interface
+If you are uncertain whether or not you need to use a proxy server to connect to the internet, please consult with your internet service provider's setup guide or your system administrator.
+Capture Date
+Templates exist in nested folders. There is no limit to how deep you can nest them, however, within any given folder & quantaplus; expects a consistent action for the base template type described below. Additionally templates allow for pre and post text to be concatenated to non document type templates. This facilitates tag creation. The next update after the introduction is scheduled to add the ability to pass variables to the text such as image size information to assist in tag creation.
+Financial Functions
+Settings Change Profile
+As & kfloppy; uses external programs to format the floppy disk, it has to rely on these programs to give the right information for being able to display the progress bar. Unfortunately, this is not the case. Especially, the programs writing the file systems do not return enough data, so that the progress bar will remain at 0%.
+Enter the name of the program. You can specify either a relative path or absolute path. If you want to look up the program, click Browse....
+Key R
+Could not start certificate manager. Please check your installation.
+Click to close the dialog and accept the settings
+Cycle Estimation
+\\t can be used to include a tab
+(Un-)Minimize window
+Each widget operates in a similar manner each time it is used, but the effect that the widget has depends on its place within the program.
+%1 is %2@%3 (%4)
+Open as tab in existing Konqueror when URL is called externally
+Must supply a valid parent.
+Consisting of accidental and systematic errors.
+Creating citations...
+Selected files only extracts only the files which have been selected.
+PCF import: Diffie Hellman group found: %1
+You can choose here the maximum number of log lines displayed in the main view.
+A & URL; entry
+Keep partially transferred files (--partial). The default behavior is that any partially transferred file is deleted if the transfer is interrupted.
+You can exercise more fine-grained control over where to file sent messages by creating a corresponding message filter that is applied to outgoing messages.
+An error occurred on latest transaction
+Press left mouse button to position top left corner of a region for %1
+Manually Invoke Action on Current Clipboard
+Save the current game as a default save file.
+Jigsaw - part_oooo
+When in Browse mode, scrolling the mouse wheel will scroll up or down the thumbail view area.
+User Properties - %1 Selected Users
+Open the popup panel
+You can see below an Blowup Photograph example applied to a small color image area resized to x2. The original is (1), the Blowup result (3). The (2) preview is the result given to standard linear resizing method to compare.
+Minimum track & width:
+Scoring
+switches to synchronous mode for debugging.
+Print the crossword
+Colour Depth
+Public key authentication succeeded.
+Removing this category will also remove all its views.
+Replace the current collection with the contents of the imported file.
+Export to & HTML...
+The Control Panel
+KDE Development
+Aspect & Ratio
+Eudora uses the mbox format in its mail files. To use them with & kmail;, make sure that your Eudora mailboxes have been compacted, then copy the. mbx files (Windows; Eudora) or Eudora mailbox files (Mac; Eudora) to your ~/ Mail folder. You do not need to copy the index files. Once you start & kmail;, the mailboxes should appear in the Folders pane and the messages should be accessible in the Headers pane.
+Opens a dialog where a user can see the number of training sessions he has done with the program and the latest ten results.
+Use Chinese style: any flower match any flower, any season match any season
+Yes, you can see statistics by opening the Game menu and selecting Show Statistics.
+Do you really want to delete this folder and all its children?
+Theme done in the Oxygen style
+Attacks and moves are issued through drag & drop between neighbour countries.
+Shot speed
+Increase preview or the thumbnail size of the currently selected Album.
+Periods of light snow and blowing snow
+%1 is a filemanager mode command, connection seems to be in email mode (%2 present)
+Toggle on or off the display of the statusbar. The default is on.
+HEX2BIN("37 ") returns" 110111 "
+file is evaluated like this: if file starts with a /, it is taken as an absolute filename. Otherwise, it is taken as the name of a global & kde; configuration file. For example: to configure the K display manager, kdm, you could issue kdesu -c kdmconfig -f kdmrc
+Invalid sent-mail folder. Keeping message in outbox.
+Factorization - in this exercise you have to factorize a given number into its prime factors.
+To download kdelibs from & kde; 3.5 (which is simply known as the 3.5 branch):
+Colorize & frames
+useful for increasing speed
+Decreases the delay of subtitles relative to video.
+When checked, if KTTSMgr is not already running and speech begins, starts KTTSMgr and displays an icon in the system tray. Note: KTTSMgr only automatically starts for text jobs having 5 sentences or more.
+Without & UNIX; the Internet would not exist, or at least would have a vastly different form. & UNIX; has not, until now, addressed the needs of the average computer user. This fact is particularly unfortunate, since a number of implementations of & UNIX; (Linux;, FreeBSD, NetBSD, & etc;) are freely available on the Internet, all of which are of exceptional quality and stability.
+Choose Your Home Location
+# Set power management options of the system. # - If the'scheme 'option is specified, the power management # scheme set corresponds to'value' # - If the'cpufreq 'option is specified, the CPU frequency policy # set corresponds to'value'
+Open File to Verify
+If this option is checked K3b will automatically erase CD-RWs and format DVD-RWs if one is found instead of an empty media before writing.
+Updating favicon...
+Select this option to output the system information data as a text document.
+Writable
+Always show tab bar
+Select the arc to invert...
+Please reload the medium and press'ok '
+Measure Transport
+Electronaffinity
+user canceled saving
+The client side (i. e. your side) will check if you have the right UID/ GID to manipulate a file or directory. You might want to switch this feature off if the server(s) support the CIFS Unix Extensions and you are not allowed to access the files and directories. This setting does not affect the normal ACL check.
+%1 [completed]
+Many thanks to all those involved!
+Could not match work duration. Want: %1 got: %2
+The values in the second parameter determine the upper boundaries of the intervals. The intervals include the upper boundaries. The returned array is a column vector and has one more element than the second parameter; the last element represents the number of all elements greater than the last value in second parameter. If the second parameter is empty, all values in the first parameter are counted.
+Draws a groovy rotating fiber optic lamp. Written by Tim Auckland; 2005.
+Use AM/ PM display. AP will be replaced by either "AM" or "PM".
+Ctrl; - Collapse One Local Level
+Extension of lines
+Comfortable Merge Of Two Or Three Input Files
+Text encoding for Microsoft Access database Database file "%1" appears to be created by a version of Microsoft Access older than 2000. In order to properly import national characters, you may need to choose a proper text encoding if the database was created on a computer with a different character set.
+Similar Categories:
+& konsole; with 4 terminal sessions open.
+& Use direct connection (might need root permissions)
+Shear your image by using the Horizontal Angle and Vertical Angle sliders (values in degrees). You can shear along either Horizontally and vertically at the same time. Click on the Reset Values reset. A shearing effect preview is shown on the center of dialog window. The new target image dimensions in pixels are displayed at the right side of dialog.
+Frame Buffer plugins for KRfb
+Failed to register new account.
+Visible
+gigawatts
+Spin this to choose the number of players.
+Here is an example bash script reboot into FreeBSD:
+Vivid-Detail
+administer
+If a plug-in provides configuration options, a section to access those will appear as a child of this page.
