@@ -1,0 +1,13 @@
+lang-pair	EMEA	JRC-Acquis	KDE4	OpenSubtitles	QED	Tanzil	TED2020	CCAligned
+en-cs	20.5	24.8	25.2	11.7	16.0	5.5	15.7	NA
+en-de	28.4	29.5	22.5	18.4	23.1	12.6	22.8	NA
+en-fi	14.1	11.4	22.7	7.9	14.8	NA	14.3	NA
+en-fr	33.7	37.4	36.0	24.1	31.2	14.5	30.9	NA
+en-lt	7.2	7.8	9.2	1.0	1.5	NA	1.9	NA
+en-ro	29.5	30.0	21.9	17.8	19.1	7.0	22.3	NA
+en-ta	NA	NA	NA	NA	NA	NA	NA	NA
+cs-en	38.4	41.0	31.6	27.6	27.7	NA	29.1	NA
+fr-en	40.4	46.9	40.3	28.1	35.9	NA	35.9	NA
+lt-en	18.9	22.5	15.6	7.9	10.8	NA	12.5	NA
+ro-en	43.4	45.9	34.2	31.6	31.8	NA	37.1	NA
+mean	27.4	29.7	25.9	17.6	21.2	9.9	22.2	NA
